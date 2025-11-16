@@ -1,4 +1,4 @@
-# data-wrangling-project
+# Data Wrangling Project — Fashion Retail (Jeans Dataset)
 
 ![Project Banner](images/23.gif)
  
